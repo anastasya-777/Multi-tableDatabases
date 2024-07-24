@@ -2,7 +2,15 @@
 
 ## Тема: Многотабличные базы данных.
 
-## Запросы
+## Данные указанные в таблицах:
+
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/fa73091a-32ee-4d16-b435-f18e10bc8353">
+
+
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/c15e2825-5d47-45a9-9b70-78742f294347">
+
+
+## Запросы:
 
 1. Вывести все возможные пары строк преподавателей и групп.
 
